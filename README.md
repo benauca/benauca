@@ -25,7 +25,6 @@
 
 - 👀 I’m interested in Cloud Development
 - 🌱 I’m currently learning AWS
-- 👭 I'm looking to collaborate on Full Stack Web Development
 
 ---
 ## My Github Stats 📊
